@@ -1,3 +1,2 @@
-# hello-world
-just another repository
-first try
+# 毕业设计
+毕业设计项目初始化
